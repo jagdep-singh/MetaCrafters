@@ -22,5 +22,8 @@ function getTotalSupply() {
 }
 
 mintNFT("Bob", "Black", "Hoodie", "Silver Chain");
+mintNFT("Jhon", "Brown", "Hoodie", "Gold Chain");
+mintNFT("Deez", "Blue", "Hoodie", "Glasses");
+mintNFT("Nats", "Red", "Hoodie", "Ring");
 listNFTs();
 getTotalSupply();
